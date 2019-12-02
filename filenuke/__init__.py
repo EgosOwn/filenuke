@@ -3,7 +3,7 @@
 import sys
 import os
 
-import nuke
+from . import nuke
 
 if __name__ == "__main__":
     try:
