@@ -1,0 +1,4 @@
+venv/*
+filenuke/__pycache__/*
+testdata/*
+.vscode/*
