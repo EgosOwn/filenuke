@@ -8,6 +8,7 @@ setup(name='filenuke',
       url='https://chaoswebs.net/',
       packages=find_packages(exclude=['contrib', 'docs', 'tests']),
       install_requires=[],
+      python_requires='>=3.6',
       classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
